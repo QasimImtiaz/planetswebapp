@@ -1,0 +1,96 @@
+{
+	"planets": 
+	[
+		{
+						"image": "earth.jpg",		
+					        "name": "Earth",
+						"description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, Earth's only natural satellite",
+						"Radius": "6,371km",
+						"Surface Pressure": "101.325 kPa",
+						"Mean density": "5.514 g/cm3 (0.1992 lb/cu in)",
+						"Surface gravity":"9.807 m/s2 (1g; 32.18 ft/s2",
+						"Mean anomaly": "358.617",
+						"InterestingFact": "The Earth is struck by lightning 100 times per second – that's 8.6 million times per day!"
+				},
+				{
+						"image": "mercury.jpg",
+						"name": "Mercury",
+						"description": "Mercury is the smallest and innermost planet in the Solar System. Its orbital period around the Sun of 87.97 days is the shortest of all the planets in the Solar System. It is named after the Roman deity Mercury, the messenger of the gods.",
+						"Radius": "2,440 km",
+						"Surface Pressure": "one nanopascal",
+						"Mean density": "5.43 g/cm3",
+						"Surface gravity": "3.7 m/s2",
+						"Mean anomaly": "174.796",
+						"InterestingFact": "Because Mercury is so small, it has a very weak magnetic field."
+				},
+				{
+						"image": "venus.jpg",
+						"name": "Venus",
+						 "description": "Venus is the second planet from the Sun, orbiting it every 224.7 Earth days. It has the longest rotation period of any planet in the Solar System and rotates in the opposite direction to most other planets. It does not have any natural satellites. It is named after the Roman goddess of love and beauty.",
+						"Radius": "6,052 km",
+						"Surface Pressure": "9.3 MPa",
+						"Mean density": "5.24 g/cm3",
+						"Surface gravity": "8.87 m/s2",
+						"Mean anomaly": "-64.56oC",
+						"InterestingFact": "It is a fiery, toxic, hellish world of extreme heat and pressure."
+
+				},
+				{
+						"image": "mars.jpg",
+						"name": "Mars",
+						"description": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System after Mercury.",
+						"Radius": "3,390 km",
+						"Surface Pressure": "600 pascals",
+						"Mean density": "3.93 g/cm³",
+						"Surface gravity": "3.711 m/s²",
+						"Mean anomaly": "13.90788°",
+						"InterestingFact": "It may take on a pink hue due to iron oxide particles suspended in it."
+				},
+				{
+						"image": "jupiter.jpg",
+						"name": "Jupiter",
+						"description": "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a giant planet with a mass one-thousandth that of the Sun, but two-and-a-half times that of all the other planets in the Solar System combined.",
+						"Radius": "69,911 km",
+						"Surface Pressure": "100 kPa",
+						"Mean density": "1.33 g/cm³",
+						"Surface gravity": "24.79 m/s²",
+						"Mean anomaly": "18.818°",
+						"InterestingFact": "It has been raging for at least 400 years."
+				},
+				{
+						"image": "saturn.jpg",
+						"name": "Saturn",
+						"description": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius about nine times that of Earth. It has only one-eighth the average density of Earth, but with its larger volume Saturn is over 95 times more massive.",
+						"Radius": "58,232 km",
+						"Surface Pressure": "140 kPa",
+						"Mean density": "687 kg/m³",
+						"Surface gravity": "10.44 m/s²",
+						"Mean anomaly": "317.020°",
+						"InterestingFact": "There is a hexagonal shaped cloud on the north pole of Saturn."
+
+				},
+				{
+						"image": "uranus.jpg",
+						"name": "Uranus",
+						"description": "Uranus is the seventh planet from the Sun. It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. Uranus is similar in composition to Neptune, and both have bulk chemical compositions which differ from that of the larger gas giants Jupiter and Saturn.",
+						"Radius": "25,362 km",
+						"Surface Pressure": "one bar",
+						"Mean density": "1.27 g/cm³",
+						"Surface gravity": "8.87 m/s²",
+						"Mean anomaly": "142.238600°",
+						"InterestingFact": "At magnitude 5.3, Uranus is just within the brightness scale that a human eye can perceive."
+				},
+				{
+						"image": "neptune2.jpg",
+						"name": "Neptune",
+						"description": "Neptune is the eighth and farthest known planet from the Sun in the Solar System. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet.",
+						"Radius": "24,622 km",
+						"Surface Pressure": "0.1 bars (10 kPa)",
+						"Mean density": "1.64 g/cm³",
+						"Surface gravity": "11.15 m/s²",
+						"Mean anomaly": "256.228°",
+						"InterestingFact": "Voyager 2 visited Neptune in the year 1989."
+				}
+
+		]
+}

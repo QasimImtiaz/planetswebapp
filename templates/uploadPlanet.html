@@ -1,0 +1,28 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+	<h1> Upload Planet </h1>
+	<div align = "center">
+		<form action = "" method="post" name="form" enctype="multipart/form-data">
+`       		<p><label for="planetName"> Planet Name:</label>
+        		<input type="text" name="planetName" id="planetName" /></p>
+        		<p><label for="planetDescription"> Planet Description: </label>
+        		<input type="text" name="planetDescription" id="planetDescription" /></p>
+        		<p><label for="radius"> Radius: </label>
+        		<input type="text" name = "radius" id="radius" /></p>
+        		<p><label for="surfacePressure"> Surface Pressure: </label>
+        		<input type="text" name = "surfacePressure" id="surfacePressure" /></p>
+        		<p><label for="meanDensity"> Mean Density: </label>
+        		<input type="text" name = "meanDensity" /></p>
+        		<p><label for ="surfaceGravity"> Surface Gravity: </label>
+       			<input type = "text" name = "surfaceGravity" /></p>
+       			<p><label for = "meanAnomaly"> Mean Anomaly: </label>
+       	 		<input type = "text" name = "meanAnomaly" /></p>
+        		<p><label for = "interestingFact"> Interesting Fact: </label>
+        		<input type = "text" name = "interestingFact" /></p>
+       			<p><label for="image"> Image:</label>
+       			<input type="file" name="image" id="image" /></p>
+        		<p><input class="btn btn-primary" type="submit" name="submit" id="submit" /></p>
+		</form>
+	</div>	
+{% endblock %}

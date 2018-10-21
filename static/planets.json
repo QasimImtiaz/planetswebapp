@@ -1,0 +1,11 @@
+{
+	"image": "https://cdn.britannica.com/s:700x450/25/160325-004-AD594C66.jpg",
+	"name": "Earth",
+	"description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, Earth's only natural satellite",
+	"Radius": "6,371km",
+	"Surface Pressure": "101.325 kPa",
+	"Mean density": "5.514 g/cm3 (0.1992 lb/cu in)",
+	"Surface gravity":"9.807 m/s2 (1 g 32.18 ft/s2",
+	"Mean anomaly": "358.617°",
+	"InterestingFact": "The Earth is struck by lightning 100 times per second – that's 8.6 million times per day!"
+}
